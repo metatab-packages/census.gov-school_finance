@@ -14,17 +14,190 @@ Version.Major,1
 Version.Minor,1
 Version.Patch,1
 Created,2022-07-15T23:20:37
-Modified,2022-07-15T23:20:38
+Modified,2022-07-16T17:50:43
 Giturl,https://github.com/metatab-packages/cde.ca.gov-collection.git
-""
+
 Section,Contacts,Email,Organization,Url
 Wrangler,Eric Busboom,eric@civicknowledge.com,Civic Knowledge,http://civicknowledge.com
-""
+
 Section,Documentation,Title,Description,
+Homepage,https://www.census.gov/programs-surveys/school-finances/data/tables.html,Annual Survey of School System Finances Tables,"Skip Navigation
+Within Data
+
+    Data Tools & Apps
+    Errata Notes
+    Tables
+
+Annual Survey of School System Finances Tables",
 Documentation,file:README.md,README,,
-""
+Documentation,https://www2.census.gov/programs-surveys/school-finances/technical-documentation/complete-technical-documentation/2020/school20doc.doc,"Documentation, 2020","Dataset documentation, including data dictionary",
+
 Section,References,Name,Description,
-""
+Reference,https://www2.census.gov/programs-surveys/school-finances/tables/2020/secondary-education-finance/elsec20.xls,sch_finance_20,"All Data items, 2020",
+Reference,https://www2.census.gov/programs-surveys/school-finances/tables/2019/secondary-education-finance/elsec19.xls,sch_finance_19,"All Data items, 2019",
+Reference,https://www2.census.gov/programs-surveys/school-finances/tables/2018/secondary-education-finance/elsec18.xls,sch_finance_18,"All Data items, 2018",
+Reference,https://www2.census.gov/programs-surveys/school-finances/tables/2017/secondary-education-finance/elsec17.xls,sch_finance_17,"All Data items, 2017",
+
 Section,Resources,Name,Description,
-""
-Section,Schema,DataType,AltName,Description
+Datafile,notebooks/extract.ipynb#df,school_finance,Combined school finance,
+
+Section,Schema,DataType,Description
+Table,school_finance,,
+Table.Column,state,integer,State Identification Number
+Table.Column,idcensus,integer,School System Identification Number1
+Table.Column,name,string,School System Name
+Table.Column,conum,integer,ANSI State and County Code1
+Table.Column,csa,string,Consolidated Statistical Area1
+Table.Column,cbsa,string,Core-Based Statistical Area1
+Table.Column,schlev,integer,School Level Code1
+Table.Column,ncesid,integer,NCES ID Code1
+Table.Column,yrdata,integer,Year of Data
+Table.Column,v33,integer,Fall Membership
+Table.Column,totalrev,integer,TOTAL ELEMENTARY-SECONDARY REVENUE
+Table.Column,tfedrev,integer,Total Revenue from Federal Sources
+Table.Column,c14,integer,Federal revenue through the state - Title I
+Table.Column,c15,integer,"Federal revenue through the state - IDEA, Part B, Sections 611 and 619 - Special Education Grants to States and Preschool Grants"
+Table.Column,c19,integer,Federal revenue through the state - Career and technical education
+Table.Column,c22,integer,"Federal revenue through the state - Title II, Part A - Supporting Effective Instruction"
+Table.Column,c23,integer,"Federal revenue through the state - Title IV, Part A, Subpart 1, Section 4105 - Student Support and Academic Enrichment Grants"
+Table.Column,c26,integer,"Federal revenue through the state - Title IV, Part B - 21st Century Community Learning Centers"
+Table.Column,c27,integer,"Federal revenue through the state - Title V, Part B, Subpart 2 - Rural and Low-Income School Program"
+Table.Column,b11,integer,"Federal revenue through the state - Title III, Part A - English Language Acquisition State Grants"
+Table.Column,c20,integer,Federal revenue through the state - All other
+Table.Column,c25,integer,Federal revenue through the state - School meal programs - Child Nutrition Act
+Table.Column,c36,integer,Federal revenue - Nonspecified
+Table.Column,b10,integer,Direct federal revenue - Title VII - Impact Aid
+Table.Column,b12,integer,"Direct federal revenue - Title VI - Indian, Native Hawaiian, and Alaska Native Education"
+Table.Column,b14,integer,"Direct federal revenue - Title V, Part B, Subpart 1 - Small, Rural School Achievement Program"
+Table.Column,b13,integer,Direct federal revenue - All other
+Table.Column,tstrev,integer,Total Revenue from State Sources
+Table.Column,c01,integer,General formula assistance
+Table.Column,c04,integer,Staff improvement programs
+Table.Column,c05,integer,Special education programs
+Table.Column,c06,integer,Compensatory and basic skills attainment programs
+Table.Column,c07,integer,Bilingual education programs
+Table.Column,c08,integer,Gifted and talented programs
+Table.Column,c09,integer,Career and technical education programs
+Table.Column,c10,integer,School meal programs
+Table.Column,c11,integer,Capital outlay and debt service programs
+Table.Column,c12,integer,Transportation programs
+Table.Column,c13,integer,All other revenues from state sources
+Table.Column,c24,integer,"Census state, NCES local revenue"
+Table.Column,c35,integer,State revenue - Nonspecified
+Table.Column,c38,integer,State payments on behalf - Benefits
+Table.Column,c39,integer,State payments on behalf - Nonbenefits
+Table.Column,tlocrev,integer,Total Revenue from Local Sources
+Table.Column,t02,integer,Parent government contributions
+Table.Column,t06,integer,Property taxes
+Table.Column,t09,integer,General sales or gross receipts taxes
+Table.Column,t15,integer,Public utility taxes
+Table.Column,t40,integer,Individual and corporate income taxes
+Table.Column,t99,integer,All other taxes
+Table.Column,d11,integer,Revenue from other school systems
+Table.Column,d23,integer,Revenue from cities and counties
+Table.Column,a07,integer,"Tuition fees from pupils, parents, and other private sources"
+Table.Column,a08,integer,"Transportation fees from pupils, parents, and other private sources"
+Table.Column,a09,integer,School lunch revenues
+Table.Column,a11,integer,Textbook sales and rentals
+Table.Column,a13,integer,District activity receipts
+Table.Column,a15,integer,"Student fees, nonspecified"
+Table.Column,a20,integer,Other sales and service revenues
+Table.Column,a40,integer,Rents and royalties
+Table.Column,u11,integer,Sale of property
+Table.Column,u22,integer,Interest earnings
+Table.Column,u30,integer,Fines and forfeits
+Table.Column,u50,integer,Private contributions
+Table.Column,u97,integer,Miscellaneous other local revenues
+Table.Column,totalexp,integer,
+Table.Column,tcurelsc,integer,TOTAL CURRENT SPENDING FOR ELEMENTARY-SECONDARY PROGRAMS
+Table.Column,tcurinst,integer,TOTAL CURRENT SPENDING FOR INSTRUCTION
+Table.Column,e13,integer,Current operation expenditure - Instruction
+Table.Column,j13,integer,State payments on behalf - Instruction benefits
+Table.Column,j12,integer,Own retirement system transfer - Instruction
+Table.Column,j14,integer,State payments on behalf - Instruction nonbenefits
+Table.Column,v91,integer,Exhibit - Payments to private schools
+Table.Column,v92,integer,Exhibit - Payments to charter schools
+Table.Column,tcurssvc,integer,TOTAL CURRENT SPENDING FOR SUPPORT SERVICES
+Table.Column,e17,integer,Current operation expenditure - Pupil support
+Table.Column,e07,integer,Current operation expenditure - Instructional staff support
+Table.Column,e08,integer,Current operation expenditure - General administration
+Table.Column,e09,integer,Current operation expenditure - School administration
+Table.Column,v40,integer,Current operation expenditure - Operation and maintenance of plant
+Table.Column,v45,integer,Current operation expenditure - Student transportation
+Table.Column,v90,integer,Current operation expenditure - Business/central/other support services
+Table.Column,v85,integer,Current operation expenditure - Nonspecified support services
+Table.Column,j17,integer,State payments on behalf - Pupil support benefits
+Table.Column,j07,integer,State payments on behalf - Instructional staff support benefits
+Table.Column,j08,integer,State payments on behalf - General administration benefits
+Table.Column,j09,integer,State payments on behalf - School administration benefits
+Table.Column,j40,integer,State payments on behalf - Operation and maintenance of plant benefits
+Table.Column,j45,integer,State payments on behalf - Student transportation benefits
+Table.Column,j90,integer,State payments on behalf - Business/central/other support services benefits
+Table.Column,j11,integer,Own retirement system transfer - Support services
+Table.Column,j96,integer,"State payments on behalf - Support services, nonbenefits"
+Table.Column,tcuroth,integer,TOTAL CURRENT SPENDING FOR OTHER ELEMENTARY-SECONDARY PROGRAMS
+Table.Column,e11,integer,Current operation expenditure - Food services
+Table.Column,v60,integer,Current operation expenditure - Enterprise operations
+Table.Column,v65,integer,Current operation expenditure - Other elementary-secondary programs
+Table.Column,j10,integer,State payments on behalf - Other benefits
+Table.Column,j97,integer,State payments on behalf - Noninstructional and nonbenefits
+Table.Column,nonelsec,integer,TOTAL CURRENT SPENDING FOR NONELEMENTARY-SECONDARY PROGRAMS
+Table.Column,v70,integer,Current operation expenditure - Community services
+Table.Column,v75,integer,Current operation expenditure - Adult education
+Table.Column,v80,integer,Current operation expenditure - Other nonelementary-secondary programs
+Table.Column,j98,integer,State payments on behalf - Nonelementary-secondary programs
+Table.Column,tcapout,integer,TOTAL CAPITAL OUTLAY EXPENDITURE
+Table.Column,f12,integer,Construction
+Table.Column,g15,integer,Purchase of land and existing structures
+Table.Column,k09,integer,Instructional equipment
+Table.Column,k10,integer,Other equipment
+Table.Column,k11,integer,Nonspecified equipment
+Table.Column,j99,integer,State payments on behalf - Capital outlay
+Table.Column,l12,integer,Payments to state governments
+Table.Column,m12,integer,Payments to local governments
+Table.Column,q11,integer,Payments to other school systems
+Table.Column,i86,integer,Interest on school system debt
+Table.Column,z32,integer,Total salaries and wages
+Table.Column,z33,integer,Total salaries and wages - Instruction
+Table.Column,v11,integer,Total salaries and wages - Pupil support
+Table.Column,v13,integer,Total salaries and wages - Instructional staff support
+Table.Column,v15,integer,Total salaries and wages - General administration
+Table.Column,v17,integer,Total salaries and wages - School administration
+Table.Column,v21,integer,Total salaries and wages - Operation and maintenance of plant
+Table.Column,v23,integer,Total salaries and wages - Student transportation
+Table.Column,v37,integer,Total salaries and wages - Business/central/other support services
+Table.Column,v29,integer,Total salaries and wages - Food services
+Table.Column,z34,integer,Total employee benefit payments
+Table.Column,v10,integer,Total employee benefit payments - Instruction
+Table.Column,v12,integer,Total employee benefit payments - Pupil support
+Table.Column,v14,integer,Total employee benefit payments - Instructional staff
+Table.Column,v16,integer,Total employee benefit payments - General administration
+Table.Column,v18,integer,Total employee benefit payments - School administration
+Table.Column,v22,integer,Total employee benefit payments - Operation and maintenance of plant
+Table.Column,v24,integer,Total employee benefit payments - Student transportation
+Table.Column,v38,integer,Total employee benefit payments - Business/central/other support services
+Table.Column,v30,integer,Total employee benefit payments - Food services
+Table.Column,v32,integer,Total employee benefit payments - Enterprise operations
+Table.Column,_19h,integer,Long-term debt outstanding at beginning of the fiscal year
+Table.Column,_21f,integer,Long-term debt issued during the fiscal year
+Table.Column,_31f,integer,Long-term debt retired during the fiscal year
+Table.Column,_41f,integer,Long-term debt outstanding at end of fiscal year
+Table.Column,_61v,integer,Short-term debt outstanding at beginning of the fiscal year
+Table.Column,_66v,integer,Short-term debt outstanding at end of the fiscal year
+Table.Column,w01,integer,"Cash and deposits, held at end of fiscal year - Debt service funds"
+Table.Column,w31,integer,"Cash and deposits, held at end of fiscal year - Bond funds"
+Table.Column,w61,integer,"Cash and deposits, held at end of fiscal year - Other funds"
+Table.Column,ar1,integer,CARES Act Funds - Revenue - Elementary and Secondary School Emergency Relief (ESSER) Fund
+Table.Column,ar2,integer,CARES Act Funds - Revenue - Governor’s Emergency Education Relief (GEER) Fund
+Table.Column,ar3,integer,CARES Act Funds - Revenue - Education Stabilization Fund - Reimagine Workforce Preparation (ESF-RWP) Discretionary Grant
+Table.Column,ar4,integer,CARES Act Funds - Revenue - Education Stabilization Fund - Rethink K-12 Education Models (ESF-REM) Discretionary Grant
+Table.Column,ar5,integer,CARES Act Funds - Revenue - Project School Emergency Response to Violence (Project SERV)
+Table.Column,ar6,integer,CARES Act Funds - Revenue - Coronavirus Relief Fund (CRF)
+Table.Column,ae1,integer,CARES Act Funds - Expenditure - Current spending
+Table.Column,ae2,integer,CARES Act Funds - Expenditure - Instructional
+Table.Column,ae3,integer,CARES Act Funds - Expenditure - Support services
+Table.Column,ae4,integer,CARES Act Funds - Expenditure - Capital outlay
+Table.Column,ae5,integer,CARES Act Funds - Expenditure - Technology-related supplies and purchased services
+Table.Column,ae6,integer,CARES Act Funds - Expenditure - Technology-related equipment
+Table.Column,c17,integer,
+Table.Column,c16,integer,
