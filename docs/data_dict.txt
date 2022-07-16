@@ -1,0 +1,182 @@
+STATE* 	State Identification Number 
+IDCENSUS* 	School System Identification Number1 
+NAME* 	School System Name 
+CONUM* 	ANSI State and County Code1 
+CSA* 	Consolidated Statistical Area1 
+CBSA* 	Core-Based Statistical Area1 
+SCHLEV* 	School Level Code1 
+NCESID* 	NCES ID Code1 
+YRDATA* 	Year of Data 
+V33 	Fall Membership 
+  	  
+TOTALREV 	TOTAL ELEMENTARY-SECONDARY REVENUE
+	(sum of TFEDREV + TSTREV + TLOCREV)
+TFEDREV 	Total Revenue from Federal Sources
+	(sum of C14 + C15 + C19 + C22 + C23 + C26 + C27 + B11 + C20 + C25 + C36 + B10 + B12 + B14 + B13)
+C14 	   Federal revenue through the state - Title I
+C15 	Federal revenue through the state - IDEA, Part B, Sections 611 and 619 - Special Education Grants to States and Preschool Grants
+C19 	   Federal revenue through the state - Career and technical education 
+C22	Federal revenue through the state - Title II, Part A - Supporting Effective Instruction
+C23	Federal revenue through the state - Title IV, Part A, Subpart 1, Section 4105 - Student Support and Academic Enrichment Grants
+C26	Federal revenue through the state - Title IV, Part B - 21st Century Community Learning Centers
+C27	Federal revenue through the state - Title V, Part B, Subpart 2 - Rural and Low-Income School Program
+B11 	Federal revenue through the state - Title III, Part A - English Language Acquisition State Grants 
+C20 	   Federal revenue through the state - All other 
+C25 	Federal revenue through the state - School meal programs - Child Nutrition Act 
+C36 	   Federal revenue - Nonspecified 
+B10 	   Direct federal revenue - Title VII - Impact Aid 
+B12 	Direct federal revenue - Title VI - Indian, Native Hawaiian, and Alaska Native Education 
+B14	Direct federal revenue - Title V, Part B, Subpart 1 - Small, Rural School Achievement Program
+B13 	   Direct federal revenue - All other 
+  	  
+TSTREV 	Total Revenue from State Sources
+	(sum of C01 + C04 + C05 + C06 + C07 + C08 + C09 + C10 + C11 + C12 + C13 + C24 + C35 + C38 + C39)
+C01	   General formula assistance
+C04 	   Staff improvement programs 
+C05 	   Special education programs 
+C06 	   Compensatory and basic skills attainment programs 
+C07 	   Bilingual education programs 
+C08 	   Gifted and talented programs 
+C09 	   Career and technical education programs 
+C10 	   School meal programs 
+C11 	   Capital outlay and debt service programs 
+C12 	   Transportation programs 
+C13 	   All other revenues from state sources 
+C24 	   Census state, NCES local revenue 
+C35 	   State revenue - Nonspecified 
+C38 	   State payments on behalf - Benefits 
+C39 	   State payments on behalf - Nonbenefits 
+  	  
+TLOCREV 	Total Revenue from Local Sources 
+	(sum of T02 + T06 + T09 + T15 + T40 + T99 + D11 + D23 + A07 + A08 + A09 + A11 + A13 + A15 + A20 + A40 +U11 + U22 + U30 + U50 + U97)
+T02	   Parent government contributions 
+T06 	   Property taxes 
+T09 	   General sales or gross receipts taxes 
+T15 	   Public utility taxes 
+T40 	   Individual and corporate income taxes 
+T99 	   All other taxes 
+D11 	   Revenue from other school systems 
+D23 	   Revenue from cities and counties 
+A07 	   Tuition fees from pupils, parents, and other private sources
+A08 	   Transportation fees from pupils, parents, and other private sources 
+A09 	   School lunch revenues 
+A11 	   Textbook sales and rentals 
+A13 	   District activity receipts 
+A15 	   Student fees, nonspecified 
+A20 	   Other sales and service revenues 
+A40 	   Rents and royalties 
+U11 	   Sale of property 
+U22 	   Interest earnings 
+U30 	   Fines and forfeits 
+U50 	   Private contributions 
+U97 	   Miscellaneous other local revenues 
+
+TOTALEXP 	
+TOTAL ELEMENTARY-SECONDARY EXPENDITURE
+(sum of TCURELSC + NONELSEC + TCAPOUT + L12 + M12 + Q11 + I86)
+TCURELSC 	TOTAL CURRENT SPENDING FOR ELEMENTARY-SECONDARY PROGRAMS
+	(sum of TCURINST + TCURSSVC + TCUROTH)
+TCURINST 	TOTAL CURRENT SPENDING FOR INSTRUCTION
+	(sum of E13 + J13 + J12 + J14)
+E13	   Current operation expenditure - Instruction 
+J13	   State payments on behalf - Instruction benefits
+J12 	   Own retirement system transfer - Instruction 
+J14 	   State payments on behalf - Instruction nonbenefits 
+V91 	   Exhibit - Payments to private schools 
+V92 	   Exhibit - Payments to charter schools 
+  	  
+TCURSSVC 	TOTAL CURRENT SPENDING FOR SUPPORT SERVICES
+	(sum of E17 + E07 + E08 + E09 + V40 + V45 + V90 + V85 + J17 + J07 + J08 + J09 + J40 + J45 +  J90 + J11 + J96)
+E17	   Current operation expenditure - Pupil support 
+E07	   Current operation expenditure - Instructional staff support 
+E08 	   Current operation expenditure - General administration 
+E09 	   Current operation expenditure - School administration 
+V40 	   Current operation expenditure - Operation and maintenance of plant 
+V45 	   Current operation expenditure - Student transportation 
+V90 	   Current operation expenditure - Business/central/other support services 
+V85 	   Current operation expenditure - Nonspecified support services 
+J17 	   State payments on behalf - Pupil support benefits 
+J07 	   State payments on behalf - Instructional staff support benefits 
+J08 	   State payments on behalf - General administration benefits 
+J09 	   State payments on behalf - School administration benefits 
+J40 	   State payments on behalf - Operation and maintenance of plant benefits 
+J45 	   State payments on behalf - Student transportation benefits 
+J90 	   State payments on behalf - Business/central/other support services benefits 
+J11 	   Own retirement system transfer - Support services 
+J96 	   State payments on behalf - Support services, nonbenefits 
+  	  
+TCUROTH 	TOTAL CURRENT SPENDING FOR OTHER ELEMENTARY-SECONDARY PROGRAMS
+	(sum of E11 + V60 + V65 + J10 + J97)
+E11	   Current operation expenditure - Food services 
+V60	   Current operation expenditure - Enterprise operations 
+V65 	   Current operation expenditure - Other elementary-secondary programs 
+J10 	   State payments on behalf - Other benefits 
+J97 	   State payments on behalf - Noninstructional and nonbenefits 
+  	  
+NONELSEC 	TOTAL CURRENT SPENDING FOR NONELEMENTARY-SECONDARY PROGRAMS
+	(sum of V70 + V75 + V80 + J98)
+V70	   Current operation expenditure - Community services 
+V75	   Current operation expenditure - Adult education 
+V80 	   Current operation expenditure - Other nonelementary-secondary programs 
+J98 	   State payments on behalf - Nonelementary-secondary programs 
+  	  
+TCAPOUT 	TOTAL CAPITAL OUTLAY EXPENDITURE
+	(sum of F12 + G15 + K09 + K10 + K11 + J99)
+F12	   Construction 
+G15	   Purchase of land and existing structures 
+K09 	   Instructional equipment 
+K10 	   Other equipment 
+K11 	   Nonspecified equipment 
+J99 	   State payments on behalf - Capital outlay
+  	  
+L12 	   Payments to state governments
+M12 	   Payments to local governments 
+Q11 	   Payments to other school systems 
+I86 	   Interest on school system debt 
+	
+Z32 	   Total salaries and wages 
+Z33	   Total salaries and wages - Instruction 
+V11 	   Total salaries and wages - Pupil support 
+V13 	   Total salaries and wages - Instructional staff support 
+V15 	   Total salaries and wages - General administration 
+V17 	   Total salaries and wages - School administration 
+V21 	   Total salaries and wages - Operation and maintenance of plant 
+V23 	   Total salaries and wages - Student transportation 
+V37 	   Total salaries and wages - Business/central/other support services 
+V29 	   Total salaries and wages - Food services 
+	
+Z34 	   Total employee benefit payments 
+V10	   Total employee benefit payments - Instruction 
+V12 	   Total employee benefit payments - Pupil support 
+V14 	   Total employee benefit payments - Instructional staff 
+V16 	   Total employee benefit payments - General administration 
+V18 	   Total employee benefit payments - School administration 
+V22 	   Total employee benefit payments - Operation and maintenance of plant 
+V24 	   Total employee benefit payments - Student transportation 
+V38 	   Total employee benefit payments - Business/central/other support services 
+V30 	   Total employee benefit payments - Food services 
+V32 	   Total employee benefit payments - Enterprise operations 
+	
+_19H 	   Long-term debt outstanding at beginning of the fiscal year 
+_21F	   Long-term debt issued during the fiscal year 
+_31F 	   Long-term debt retired during the fiscal year 
+_41F 	   Long-term debt outstanding at end of fiscal year 
+_61V 	   Short-term debt outstanding at beginning of the fiscal year 
+_66V 	   Short-term debt outstanding at end of the fiscal year 
+	
+W01 	   Cash and deposits, held at end of fiscal year - Debt service funds 
+W31	   Cash and deposits, held at end of fiscal year - Bond funds 
+W61 	   Cash and deposits, held at end of fiscal year - Other funds 
+	
+AR1	CARES Act Funds - Revenue - Elementary and Secondary School Emergency Relief (ESSER) Fund
+AR2	CARES Act Funds - Revenue - Governor’s Emergency Education Relief (GEER) Fund
+AR3	CARES Act Funds - Revenue - Education Stabilization Fund - Reimagine Workforce Preparation (ESF-RWP) Discretionary Grant
+AR4	CARES Act Funds - Revenue - Education Stabilization Fund - Rethink K-12 Education Models (ESF-REM) Discretionary Grant
+AR5	CARES Act Funds - Revenue - Project School Emergency Response to Violence (Project SERV)
+AR6	CARES Act Funds - Revenue - Coronavirus Relief Fund (CRF)
+AE1	CARES Act Funds - Expenditure - Current spending
+AE2	CARES Act Funds - Expenditure - Instructional
+AE3	CARES Act Funds - Expenditure - Support services
+AE4	CARES Act Funds - Expenditure - Capital outlay
+AE5	CARES Act Funds - Expenditure - Technology-related supplies and purchased services
+AE6	CARES Act Funds - Expenditure - Technology-related equipment

@@ -1,0 +1,386 @@
+These definitions from the "Appendix A, Definitions" tab of the [Summary Tables
+file for 2020](https://www2.census.gov/programs-surveys/school-finances/tables/2020/secondary-education-finance/elsec20_sumtables.xls)
+
+A. Definitions: Fiscal Year 2020
+
+Capital Outlay. Direct expenditure for construction of buildings, roads, and
+other improvements undertaken either on a contractual basis by private
+contractors or through a government’s own staff (i.e., force account); for
+purchases of equipment, land, and existing structures; and for payments on
+capital leases. Includes amounts for additions, replacements, and major
+alterations to fixed works and structures. However, expenditure for maintenance
+and repairs to such works and structures is classified as current spending.
+
+Cash and Deposits. Cash on hand and on deposit, including any savings and other
+time deposits, as well as demand deposits.
+
+Cash and Security Holdings. Cash, deposits, and government and private
+securities (bonds, notes, stocks, mortgages, etc.) except holdings of agency
+and private trust funds. Does not include interfund loans, receivables, and the
+value of real property and other fixed assets.
+
+Construction. Production of fixed works and structures and additions,
+replacements, and major alterations thereto, including planning and design of
+specific projects, site improvements, and provision of equipment and facilities
+that are integral parts of a structure. Includes both construction undertaken
+either on a contractual basis by private contractors or through a government’s
+own staff (i.e., force account).
+
+Contributions from Parent Government. Tax receipts and other amounts
+appropriated by a parent government and transferred to its dependent school
+system. Excludes intergovernmental revenue, current charges, and miscellaneous
+general revenue.
+
+Current Charges. Amounts received from the public for performance of specific
+services benefitting the person charged and from sales of commodities and
+services. Includes school lunch sales (gross), tuition paid by individuals,
+revenue from the sale and rental of textbooks, transportation fees, and
+receipts from centrally administered student activity funds. Excludes amounts
+received from other governments and interfund transfers.
+
+Current Operation. Direct expenditure for salaries, employee benefits,
+purchased professional and technical services, purchased property and other
+services, and supplies. It includes gross school system expenditure for
+instruction, support services, and noninstructional functions. It excludes
+expenditure for debt service, capital outlay, and reimbursement to other
+governments (including other school systems). Also excluded are payments made
+on behalf of the school system by other governments including employee
+retirement payments made by state governments to state retirement funds and to
+social security. Employer contributions made by those few school systems that
+have their own retirement systems (such as the Chicago Board of Education and
+the Denver Public School System) into their own retirement funds are excluded.
+Current operation expenditure is a standard classification item used in all
+Census Bureau government finance reports.
+
+Current Spending. Comprises current operation expenditure (as defined above),
+payments made by the state government on behalf of school systems, and
+transfers made by school systems into their own retirement funds. This
+classification is used only in Census Bureau education reports in an effort to
+provide statistics for users who wish to make interstate comparisons. It is not
+used in other government finance reports to avoid double counting expenditure
+between levels of government and funds. While expenditure made by the state
+government on behalf of the school systems is available on a state aggregate
+basis, it is frequently not available for each school system in given states.
+Therefore, these payments are included under current spending in the tables
+which display state totals and are often estimated for the local school systems
+to be included in the tables which display individual school units. Appendix B
+identifies this anomaly on a state-by-state basis.
+
+Debt. Short-and long-term credit obligations of a school system or that portion
+of a parent government’s credit obligations devoted to a dependent system.
+Excludes non interest-bearing short-term obligations, interfund obligations,
+amounts owed in a trust or agency capacity, leases, advances, and contingent
+loans from other governments, and rights of individuals to benefits from school
+system employee-retirement funds.
+
+Debt Outstanding at the End of Fiscal Year. All debt obligations remaining
+unpaid at the end of the fiscal year.
+
+Elementary-Secondary Education. Prekindergarten through twelfth grade regular,
+special, and vocational education, as well as cocurricular, community service,
+and adult education programs provided by a public school system. The financial
+activities of these systems for all instruction, support service, and
+noninstructional activities are included in this category.
+
+Employee Benefit Expenditure. Amounts paid by the school system for fringe
+benefits. These amounts are not included in salaries and wages paid directly to
+employees. Includes contributions on behalf of employees for retirement
+coverage, social security, group health and life insurance, tuition
+reimbursement, worker's compensation, and unemployment compensation.
+
+Enrollment. Count of pupils on pupil rolls in the fall of the school system's
+fiscal year for which data are shown.
+
+Equipment. Apparatus, furnishings, motor vehicles, office machines, and the
+like having an expected life of more than five years. Equipment expenditure
+consists only of amounts for purchase of equipment, including both additional
+equipment and replacements. Expenditure for facilities that are integral parts
+of structures is classified as expenditure for construction or for purchase of
+land and existing structures.
+
+Expenditure. All amounts of money paid out by a school system – net of
+recoveries and other correcting transactions – other than for retirement of
+debt, purchase of securities, extension of loans, and agency transactions. Note
+that expenditure includes only external transactions of a school system and
+excludes noncash transactions, such as the provision of perquisites or other
+payments in-kind.
+
+Federal Aid – Direct. Aid from project grants for programs such as Impact Aid,
+Indian, Native Hawaiian, and Alaska Native Education, the Small, Rural School
+Achievement Program, Head Start, Follow Through, Magnet Schools, Dropout
+Demonstration Assistance, and Gifted and Talented.
+
+Impact Aid. Revenue provided under Title VII of the Elementary and Secondary
+Education Act (ESEA) as reauthorized by the Every Student Succeeds Act (ESSA)
+to assist in the construction and operation of schools in areas affected by
+federal activities.
+
+Federal Aid Distributed by State Governments. Aid from formula grants
+distributed through state government agencies. Includes revenue from such
+programs as:
+
+Child Nutrition Programs. Revenues from school meal and child nutrition
+programs authorized under the Child Nutrition Act. Includes federal
+reimbursement revenues provided under the National School Lunch Act, School
+Breakfast Program, Special Milk Program, a la carte sales, etc. Excludes the
+value of donated commodities.
+
+Special Education Programs. Revenue awarded under the Individuals with
+Disabilities Act (IDEA). Includes formula grants authorized in Part B, sections
+611 and 619 of this legislation, but excludes project grants authorized in Part
+C and Part D. Revenue from Part C is included in Other Federal Aid Distributed
+by the State. Revenue from Part D is included in Federal Aid—Direct.
+
+Title I Programs. Revenue authorized by Title I of the Elementary and Secondary
+Education Act (ESEA) as reauthorized by the Every Student Succeeds Act (ESSA).
+Includes basic, concentration, targeted, and education finance incentive
+grants. Also includes grants for the education of migratory children, and
+grants for prevention and intervention programs for neglected, delinquent, or
+at-risk children.
+
+Vocational Programs. Revenue for career and technical education programs.
+Includes formula grants authorized by section 131 of the Carl D. Perkins
+Vocational Career and Technical Education Act. Also includes revenue from Title
+II (Basic Grants) and Title III-E (Tech-Prep Education).
+
+Other Federal Aid Distributed by the State. Includes revenue from other formula
+grant programs distributed through state governments, such as Supporting
+Effective Instruction grants authorized by Title II-A of the Elementary and
+Secondary Education Act, Student Support and Academic Enrichment Grants
+authorized by Title IV-A, Subpart 1, Section 4105 of the Elementary and
+Secondary Education Act, 21st Century Community Learning Center programs
+authorized by Title IV-B of the Elementary and Secondary Education Act, Rural
+and Low-Income School Program grants authorized by Title V-B, Subpart 2 of the
+Elementary and Secondary Education Act, English Language Acquisition State
+Grants authorized by Title III-A of the Elementary and Secondary Education Act,
+and the Workforce Innovation and Opportunity Act.
+
+Nonspecified Federal Aid Distributed by the State. Federal revenue amounts that
+pertain to more than one of the above categories, but which reporting units
+could not provide distinct amounts into these categories. This revenue is
+included in “nonspecified” instead of “other.”
+
+Fiscal Year. The 12-month period at the end of which the school district
+determines its financial condition and the results of its operations and closes
+its books.
+
+Fixed Charges. Charges of a generally recurrent nature which are not readily
+allocable to another function. Such charges include employee benefits,
+retirement and insurance programs, and worker’s compensation.
+
+Instruction Expenditure. Relates to the instruction function (Function 1000)
+defined in “Financial Accounting for Local and State School Systems,” National
+Center for Education Statistics, 2014. Instruction presented under the current
+operation or current spending headings includes payments from all funds for
+salaries, employee benefits (paid by school system only if under “current
+operation” or paid by both school and state if under “current spending”),
+supplies, materials, and contractual services. It excludes capital outlay, debt
+service, and interfund transfers. Instruction covers regular, special, and
+vocational programs offered in both the regular school year and summer school.
+It excludes instructional, student, and other support activities, as well as
+adult education, community services, and student enterprise activities.
+
+Instructional Equipment. Expenditure for all equipment recorded by school
+systems in general or operating funds under the “instruction” function.
+
+Interest Earnings. Interest earned on deposits and securities including amounts
+for accrued interest on investment securities sold. However, receipts for
+accrued interest on bonds issued are classified as offsets to interest
+expenditure. Note that interest earnings shown under elementary-secondary
+revenue do not include earnings on assets of employee-retirement systems.
+
+Interest Expenditure. Amounts paid for use of borrowed money.
+
+Long-Term Debt. Debt payable more than one year after date of issue.
+
+Long-Term Debt Issued. The par value of long-term debt obligations incurred
+during the fiscal period concerned, including funding and refunding
+obligations. Debt obligations authorized but not actually incurred during the
+fiscal period are not included.
+
+Long-Term Debt Retired. The par value of long-term debt obligations liquidated
+by repayment or exchange, including debt retired by refunding operations.
+
+Nonelementary-Secondary Programs. Comprises expenditure by a school district
+for the operation of community services (e.g., swimming pools, public
+libraries, programs for the elderly, and child care centers); adult education
+classes; and other activities not related to elementary-secondary education,
+such as community college programs.
+
+Other Current Spending. Current spending for other than elementary-secondary
+education instruction and support services activities. Included in this
+category are food services, enterprise operations, community services, and
+adult education expenditure.
+
+Payments to Other Governments. Payments made to states, counties, cities, and
+special district school housing authorities including repayment of loans and
+debt service payments to entities that incur debt instead of the school system.
+“Payments to Other School Systems” is included in this category in the tables
+that display individual school systems but excluded (to avoid double counting)
+in the state aggregate tables.
+
+Payments to Other School Systems. Payments to in-state and out-of-state public
+school systems for tuition, transportation, data processing, or other purchased
+services. These amounts are excluded from state aggregate tables but included
+in “Payments to Other Governments” in the individual unit tables.
+
+Property Taxes. Taxes conditioned on ownership of property and measured by its
+value. Includes general property taxes relating to property as a whole, taxed
+at a single rate or at classified rates according to the class of property.
+Property refers to real property (e.g., land and structures), as well as
+personal property. Personal property can be either tangible (e.g., automobiles
+and boats) or intangible (e.g., bank accounts and stocks and bonds).
+
+Public School Systems. Includes independent school district governments and
+dependent school systems. Independent school district governments are organized
+local entities providing public elementary, secondary, special, and
+vocational-technical education which, under the law, have sufficient
+administrative and fiscal autonomy to qualify as governments. Dependent school
+systems lack sufficient autonomy to be counted as separate governments and are
+classified as dependent agencies of some other government – a county,
+municipality, township, or state government.
+
+Purchase of Land and Existing Structures. Expenditure for the acquisition of
+land and existing buildings including purchases of rights-of-way, payments on
+capital leases, title searches, and similar activities associated with real
+property purchase transactions.
+
+Revenue. All amounts of money received by a school system from external sources
+– net of refunds and other correcting transactions – other than from issuance
+of debt, liquidation of investments, or as agency and private trust
+transactions. Note that revenue excludes noncash transactions, such as receipt
+of services, commodities, or other “receipts in-kind.”
+
+Salaries and Wages. Amounts paid for compensation of school system officers and
+employees. Consists of gross compensation before deductions for withheld taxes,
+retirement contributions, or other purposes.
+
+School Lunch Charges. Gross collections from cafeteria sales to children and
+adults.
+
+Short-Term Debt. Interest-bearing debt payable within one year from date of
+issue, such as bond anticipation notes, bank loans, and tax anticipation notes
+and warrants. Includes obligations having no fixed maturity date if payable
+from a tax levied for collection in the year of their issuance.
+
+State Aid. State revenue paid to the school system for any purpose, restricted
+or unrestricted, including the following:
+
+Capital Outlay/Debt Service. Revenue paid for school construction and building
+aid including amounts to help the school systems pay for servicing debt.
+
+Compensatory Programs. Revenue for “at risk” or other economically
+disadvantaged students including migratory children. Also includes monies from
+state programs directed toward the attainment of basic skills and categorical
+education excellence and quality education programs that provide more than
+staff enhancements – such as materials, resource centers, and equipment.
+
+General Formula Assistance. Revenue from general noncategorical state
+assistance programs such as foundation, minimum or basic formula support,
+apportionment, equalization, flat or block grants, and state public school fund
+distributions. This category also includes revenue dedicated from major state
+taxes, such as income and sales taxes.
+
+Payments on Behalf of Local Education Agency (LEA). State payments that benefit
+school systems but are not paid directly to school systems. Includes amounts
+transferred into state teacher or public employee retirement funds, as well as
+into funds for other kinds of employee benefits, such as group health, life,
+and unemployment compensation. This category also includes state payments for
+textbooks, school buses, and telecommunications that are provided to public
+school systems.
+
+Special Education Programs. Revenue for the education of physically and
+mentally handicapped students.
+
+Staff Improvement Programs. Revenue for programs designed to improve the
+quantity and quality of school system staff. Examples include programs for
+additional teacher units, teacher benefits such as retirement and social
+security contributions paid directly to the school system, mentor teachers,
+teacher induction, staff development contracts and stipends, career ladder
+contracts, in-service training, health insurance, principal leadership, teacher
+quality contracts, and salaries for specific types of instructional and support
+staff.
+
+Transportation Programs. Payments for various state transportation aid
+programs, such as those that compensate the school system for part of its
+transportation expense and those that provide reimbursement for transportation
+salaries or school bus purchase.
+
+Vocational Programs. Revenue for state vocational education assistance programs
+including career education programs.
+
+Other State Aid. All other state revenue that is paid directly to the school
+systems including funds for bilingual education, gifted and talented programs,
+food services, debt services, instructional materials, textbooks, computer
+equipment, library resources, guidance and psychological services, driver
+education, energy conservation, enrollment increases and losses, health,
+alcohol and drug abuse, AIDS, child abuse, summer school, prekindergarten and
+early childhood, adult education (excluding vocational), desegregation, private
+schools, safety and law enforcement, and community services. In cases where
+these programs are covered under a state government's general formula
+assistance program, revenue will be shown under “general formula assistance”
+instead of under this category.
+
+Nonspecified State Aid. State revenue amounts that pertain to more than one of
+the above categories but which reporting units could not provide distinct
+amounts into these categories. This revenue is included in “nonspecified”
+instead of “other.”
+
+Support Services Expenditure. Relates to support services functions (Function
+2000) defined in “Financial Accounting for Local and State School Systems,”
+National Center for Education Statistics, 2014. Support services presented
+under the current operation or current spending headings include payments from
+all funds for salaries, employee benefits (paid by school system only if under
+“current operation” or paid by both school and state if under “current
+spending”), supplies, materials, and contractual services. It excludes capital
+outlay, debt service, and interfund transfers. It includes expenditure for the
+following functions:
+
+General Administration. (Function 2300) Expenditure for board of education and
+executive administration (office of the superintendent) services.
+
+Instructional Staff Support. (Function 2200) Expenditure for supervision of
+instruction service improvements, curriculum development, instructional staff
+training, and media, library, audiovisual, television, and computer-assisted
+instruction services.
+
+Operation and Maintenance of Plant. (Function 2600) Expenditure for building
+services (heating, electricity, air conditioning, property insurance), care and
+upkeep of grounds and equipment, nonstudent transportation vehicle operation
+and maintenance, and security services.
+
+Pupil Support Services. (Function 2100) Expenditure for attendance
+record-keeping, social work, student accounting, counseling, student appraisal,
+record maintenance, and placement services. This category also includes
+medical, dental, nursing, psychological, and speech services.
+
+Pupil Transportation Services. (Function 2700) Expenditure for the
+transportation of public school students including vehicle operation,
+monitoring riders, and vehicle servicing and maintenance.
+
+School Administration. (Function 2400) Expenditure for the office of principal
+services.
+
+Other Support Services. Expenditure for central/business support (Function
+2500) and other support (Function 2900) services. Business support services
+include payments for fiscal services (budgeting, receiving and disbursing
+funds, payroll, internal auditing, and accounting), purchasing, warehousing,
+supply distribution, printing, publishing, and duplicating services. Central
+support services include planning, research, development, and evaluation
+services. They also include information services, staff services (recruitment,
+staff accounting, noninstructional in-service training, staff health services),
+and data processing services.
+
+Nonspecified Support Services. Expenditure that pertains to more than one of
+the above categories. In some cases, reporting units could not provide distinct
+expenditure amounts for each support services category. This expenditure is
+included in “nonspecified” instead of “other support services.”
+
+Taxes. Compulsory contributions exacted by a school system for public purposes,
+except employee and employer assessments for retirement and social insurance
+purposes, which are classified as insurance trust revenue. All tax revenue is
+classified as general revenue and comprises amounts received (including
+interest and penalties but excluding protested amounts and refunds) from all
+taxes imposed by a government. Note that school system tax revenue excludes any
+amounts from shares of state-imposed-and-collected taxes, which are classified
+as intergovernmental revenue.
