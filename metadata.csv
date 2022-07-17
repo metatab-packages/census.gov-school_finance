@@ -14,12 +14,12 @@ Version.Major,1
 Version.Minor,1
 Version.Patch,1
 Created,2022-07-15T23:20:37
-Modified,2022-07-16T17:50:43
+Modified,2022-07-16T23:58:35
 Giturl,https://github.com/metatab-packages/cde.ca.gov-collection.git
-
+""
 Section,Contacts,Email,Organization,Url
 Wrangler,Eric Busboom,eric@civicknowledge.com,Civic Knowledge,http://civicknowledge.com
-
+""
 Section,Documentation,Title,Description,
 Homepage,https://www.census.gov/programs-surveys/school-finances/data/tables.html,Annual Survey of School System Finances Tables,"Skip Navigation
 Within Data
@@ -31,16 +31,16 @@ Within Data
 Annual Survey of School System Finances Tables",
 Documentation,file:README.md,README,,
 Documentation,https://www2.census.gov/programs-surveys/school-finances/technical-documentation/complete-technical-documentation/2020/school20doc.doc,"Documentation, 2020","Dataset documentation, including data dictionary",
-
+""
 Section,References,Name,Description,
 Reference,https://www2.census.gov/programs-surveys/school-finances/tables/2020/secondary-education-finance/elsec20.xls,sch_finance_20,"All Data items, 2020",
 Reference,https://www2.census.gov/programs-surveys/school-finances/tables/2019/secondary-education-finance/elsec19.xls,sch_finance_19,"All Data items, 2019",
 Reference,https://www2.census.gov/programs-surveys/school-finances/tables/2018/secondary-education-finance/elsec18.xls,sch_finance_18,"All Data items, 2018",
 Reference,https://www2.census.gov/programs-surveys/school-finances/tables/2017/secondary-education-finance/elsec17.xls,sch_finance_17,"All Data items, 2017",
-
+""
 Section,Resources,Name,Description,
 Datafile,notebooks/extract.ipynb#df,school_finance,Combined school finance,
-
+""
 Section,Schema,DataType,Description
 Table,school_finance,,
 Table.Column,state,integer,State Identification Number
